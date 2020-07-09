@@ -6,8 +6,8 @@
     },
     "page": {
         "title": "Editors",
-        "excerpt": "<p>Bite my shiny metal ass. The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep. A sexy mistake. Goodbye, friends. I never thought I&#8217;d die like this. But I always really hoped. No. We&#8217;re on the top. With a warning&#8230;</p>\n",
-    }
+        "excerpt": "<p>Bite my shiny metal ass. The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep. A sexy mistake. Goodbye, friends. I never thought I&#8217;d die like this. But I always really hoped. No. We&#8217;re on the top. With a warning&#8230;</p>\n"
+    },
     "images": [
         {
             "sourceUrl": "//fuxt-backend.funkhaus.us/wp-content/uploads/2020/06/wave.jpg",
@@ -451,7 +451,7 @@
                     "focalPointX": null,
                     "focalPointY": null
                 }
-            },
+            }
         },
         {
             "id": "cG9zdDoxMTY=9",
@@ -505,7 +505,7 @@
                     "focalPointX": null,
                     "focalPointY": null
                 }
-            },
+            }
         },
         {
             "id": "cG9zdDoxMTY=11",
@@ -532,7 +532,7 @@
                     "focalPointX": 54.9,
                     "focalPointY": 21.4
                 }
-            },
+            }
         },
         {
             "id": "cG9zdDoxMTY=12",
@@ -586,7 +586,7 @@
                     "focalPointX": null,
                     "focalPointY": null
                 }
-            },
+            }
         },
         {
             "id": "cG9zdDoxMTY=14",
@@ -613,7 +613,7 @@
                     "focalPointX": 46,
                     "focalPointY": 42.9
                 }
-            },
+            }
         }
     ]
 }
