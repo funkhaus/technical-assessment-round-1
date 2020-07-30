@@ -20,14 +20,14 @@ Imagine this design is the home page to an entire website. So setup basic struct
 
 1.  Please use the [Nuxt framework](https://nuxtjs.org/guide/installation#starting-from-scratch).
 1.  Please keep SEO in mind when you build this. We want to see that you understand HTML semantics.
-1.  On hover of names in the list, the image shown in the design should be a cross fading slideshow of multiple images.
+1.  On hover of names in the list, the image shown in the design should be a cross fading slideshow of multiple images. The first image in the slideshow should be the `featuredImage` for that person, the rest of the images should come from the `images` array. See [Mock data](#mock-data).
 1.  The hamburger should animate to a cross on click, and commit to the store that it's been clicked.
 1.  No CSS frameworks please.
 
 **Hints**
 
 1.  Please [read this a guide](https://github.com/funkhaus/best-practices/blob/master/README.md) for our best practices.
-1.  Please [see this sample component](https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue) for an expectation on quality style.
+1.  Please [see this sample component](https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue) for an expectation on quality and style.
 
 ## Mock data
 
